@@ -8,7 +8,7 @@
 
 初回ヒアリングカルテのGoogle Sheets URLから、壁打ち、技術・見積承認、会社別提案画像、PDF、Google Drive URLまでを一括作成するスキルです。
 
-[スキルフォルダを開く](./aisetup-client-proposal/)
+[スキルフォルダを開く](https://github.com/seknackceo-droid/seknack-ai-skills/tree/main/aisetup-client-proposal)
 
 ## インストール先
 
