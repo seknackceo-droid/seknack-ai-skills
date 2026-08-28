@@ -1,0 +1,9 @@
+interface:
+  display_name: "AIセットアップ会社別提案書"
+  short_description: "ヒアリングURLから個別提案PDFとDrive URLを作成"
+  icon_small: "./assets/SeKnAck_logo_official.png"
+  icon_large: "./assets/SeKnAck_logo_official.png"
+  brand_color: "#00009B"
+  default_prompt: "Use $aisetup-client-proposal with this completed hearing-sheet URL to create a company-specific AI-agent proposal PDF."
+policy:
+  allow_implicit_invocation: true
