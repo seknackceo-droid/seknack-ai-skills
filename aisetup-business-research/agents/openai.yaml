@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIセットアップ事業リサーチ"
+  short_description: "送信可能な小規模企業を調査し営業リストへ登録します"
+  default_prompt: "$aisetup-business-research を使って、送信可能な企業を調査しAIセットアップ営業リストへ登録してください。"
