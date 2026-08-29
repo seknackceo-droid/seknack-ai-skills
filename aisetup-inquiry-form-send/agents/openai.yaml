@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIセットアップ問い合わせフォーム送信"
+  short_description: "承認済みの営業先フォームへ必要情報を自動入力します"
+  default_prompt: "$aisetup-inquiry-form-send を使って、承認OKになった営業先の問い合わせフォームを入力してください。"
