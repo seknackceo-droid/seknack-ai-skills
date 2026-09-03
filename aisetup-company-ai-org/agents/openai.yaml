@@ -1,0 +1,4 @@
+interface:
+  display_name: "企業AI組織スターター"
+  short_description: "初心者企業向けに安全な部署別AGENTS.md一式を生成"
+  default_prompt: "$aisetup-company-ai-org を使い、初心者向けの簡単な日本語で機密に触れない質問を1問ずつ行い、端末内の非公開ローカルフォルダへ企業AI組織スターターを作ってください。英語IDは利用者へ表示しないでください。"
